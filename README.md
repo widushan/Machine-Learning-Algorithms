@@ -1,0 +1,2 @@
+# Machine Learning Algorithms
+This repository contains implementations of popular machine learning algorithms with clear, structured, and beginner-friendly code. It is designed to serve as a reference for understanding the core concepts behind ML models and their practical applications. Each algorithm is implemented from scratch (and/or using libraries), with examples and explanations to help learners and practitioners apply them effectively.
